@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anny</h1>
-<h3 align="center">A passionate web developer, I am currently doing an update to my repositories, much more to come...</h3>
+<h3 align="center">A passionate web developer, I am currently doing an update to my repositories</h3>
+
+- 🌱 I’m currently learning **JAVA, js, web design and responsive web design**
+
+- 💬 Ask me about **Angular, Spring-Boot**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annyquiladora&label=Profile%20views&color=0e75b6&style=flat" alt="annyquiladora" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=annyquiladora" alt="annyquiladora" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA, js, design web and responsive web design**
 
-- 💬 Ask me about **Angular, Spring-Boot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
