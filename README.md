@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anny</h1>
 <h3 align="center">A passionate web developer, I am currently doing an update to my repositories</h3>
 
-- 🌱 I’m currently learning **JAVA, js, web design and responsive web design**
+- 🌱 I’m currently learning **JAVA, JS and responsive Web design**
 
 - 💬 Ask me about **Angular, Spring-Boot**
 
